@@ -12,7 +12,7 @@ This is a React + Vite application that allows you to browse and explore movies.
 
 ### Features
 
-- **Main Page**: Displays the top popular shows. Clicking on a show opens a modal with additional details and a movie trailer.
+- **Main Page**: Displays the top popular shows and some aditional data.
 - **Search Bar**: Located in the top right corner, allows you to search for movies. Clicking on a movie shows the same modal view.
 - **Sorting**: Options include sorting movies by popularity.
 
