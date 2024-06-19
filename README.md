@@ -16,3 +16,5 @@ This is a React + Vite application that allows you to browse and explore movies.
 - **Search Bar**: Located in the top right corner, allows you to search for movies. Clicking on a movie shows the same modal view.
 - **Sorting**: Options include sorting movies by popularity.
 
+###Extras
+-Please use vpn to Fetch data.
